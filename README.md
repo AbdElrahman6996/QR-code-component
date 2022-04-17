@@ -9,7 +9,7 @@
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 - Solution URL: [GitHub](https://github.com/AbdElrahman6996/QR-code-component/)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://qr-code-component-preview.glitch.me)
 
 - Website - [AbdElrahman](https://www.frontendmentor.io/profile/AbdElrahman6996)
 - Frontend Mentor - [@AbdElrahman6996](https://www.frontendmentor.io/profile/AbdElrahman6996)
